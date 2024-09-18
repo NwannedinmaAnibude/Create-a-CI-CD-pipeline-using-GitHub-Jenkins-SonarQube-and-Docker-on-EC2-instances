@@ -1,11 +1,11 @@
-****Create a CI/CD pipeline using GitHub, Jenkins, SonarCube, and Docker on EC2 instances. ****
+**CREATE A CI/CD PIPELINE USING GITHUB, JENKINS, SONARCUBE, AND DOCKER ON EC2 INSTANCES.**
 
 Here’s another exciting project of building a robust CI/CD pipeline using cutting-edge technologies like GitHub, Jenkins, SonarCube, and Docker. As a Cloud DevOps engineer, you will implement a seamless pipeline for coded development, testing, and deployment. 
 
-****Project Overview: ****
+**Project Overview:**
 The goal of this project is to create an end-to-end CI/CD pipeline that automates the process of code integration, testing for bugs and vulnerabilities using SonarCube, and deploying the code in Docker containers. The pipeline will be orchestrated through Jenkins, providing an efficient and streamlined workflow. 
 
-****Project Steps: ****
+**Project Steps:**
 **1. Setting Up Jenkins for Automated Pipeline:**
 - Update the machine and install Java runtime environment.
 - Allow port 8080 for Jenkins web access.
@@ -53,5 +53,5 @@ The goal of this project is to create an end-to-end CI/CD pipeline that automate
 - Allow port 8085 for accessing the running container.
 - Verify website functionality and address any CSS loading issues. 
 
-****Summary: ****
+**Summary:**
 By completing this project, you will have developed a hands-on understanding of building a comprehensive CI/CD pipeline using GitHub, Jenkins, SonarCube, and Docker. This pipeline not only enhances the efficiency of coded development but also ensures high-quality code by incorporating automated testing and security checks.
